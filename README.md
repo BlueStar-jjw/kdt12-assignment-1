@@ -1,2 +1,1 @@
-# kdt12-assignment-1
-과제1
+Github 초급 과제 인증 완료
